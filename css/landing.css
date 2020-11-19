@@ -51,15 +51,15 @@
 	min-width: 220px;
 }
 
-/**#responsive{
-	background: url(../images/server.jpg) #25313e center top no-repeat;
+#clients{
+	background: url(../images/clients.jpeg) #25313e center top no-repeat;
 	background-size: cover;
 }
 
-#responsive > div{
+#clients > div{
 	background-color: #25313e;
 	background-color: rgba(37, 49, 62, 0.95)
-}**/
+}
 
 /*phone*/
 @media (max-width: 767px) {
